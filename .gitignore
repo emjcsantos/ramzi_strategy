@@ -1,0 +1,9 @@
+*.csv
+*.ipynb
+__pycache__/
+.ipynb_checkpoints
+db/
+results/trades
+main_old.py
+main_ref.py
+stock_data.db
